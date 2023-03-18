@@ -167,7 +167,7 @@ let list = []
 for (let i of kon) {
 list.push({
 displayName: await alfia.getName(i + '@s.whatsapp.net'),
-vcard: `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Saya Owner Okta;Bot;;Md\nFN:Saya Owner EleinaBotz WhatsApp, Md\nNICKNAME:👑 Owner Okta\nORG:Okta\nTITLE:Modz\nitem1.TEL;waid=6285731947500:+62 857-3194-7500\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:https://www.youtube.com/@ChataOfc-\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET: zyyyzeus@gmail.com\nitem3.X-ABLabel:💌 Mail Owner Okta\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 KEPO LU YAH\nEND:VCARD`
+vcard: `BEGIN:VCARD\nVERSION:3.0\nN:WhatsApp;Saya Owner Acil;Bot;;Md\nFN:Saya Owner EleinaBotz WhatsApp, Md\nNICKNAME:👑 Owner Acil\nORG:Acil\nTITLE:Modz\nitem1.TEL;waid=6283838757324:+62 838-3875-7324\nitem1.X-ABLabel:📞 Nomor Owner\nitem2.URL:https://www.youtube.com/@ChataOfc-\nitem2.X-ABLabel:💬 More\nitem3.EMAIL;type=INTERNET: zyyyzeus@gmail.com\nitem3.X-ABLabel:💌 Mail Owner Acil\nitem4.ADR:;;🇮🇩 Indonesia;;;;\nitem4.X-ABADR:💬 More\nitem4.X-ABLabel:📍 Lokasi Saya\nBDAY;value=date:🔖 KEPO LU YAH\nEND:VCARD`
 })
 }
 alfia.sendMessage(jid, { contacts: { displayName: `${list.length} Kontak`, contacts: list }, ...opts }, { quoted })
