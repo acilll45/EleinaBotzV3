@@ -5,7 +5,7 @@ Versi Ketiga Dari Acill bott
 Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Tod!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://telegra.ph/file/4b0bdd2473c450e31c737.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/HH-03-24-11" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## PENTING
