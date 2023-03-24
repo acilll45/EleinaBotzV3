@@ -5,7 +5,7 @@ Versi Ketiga Dari Acill bott
 Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Tod!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://telegra.ph/HH-03-24-11" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.imgur.com/jx17oHT.gif" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## PENTING
@@ -118,4 +118,4 @@ Set prefix
 * [`All Creator Bot`](https://github.com/acilll45)
 
 ## ```Recode By ✏️```
-[![Okta](https://telegra.ph/file/4f4a1a831073ea8439187.jpg)](https://github.com/ChataOfc)
+[![Okta](https://telegra.ph/file/03e268e2e4f5f359cdc55.jpg)](https://github.com/ChataOfc)
