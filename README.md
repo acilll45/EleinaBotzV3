@@ -1,6 +1,6 @@
-# EleinaBotz-
+# Acil Bottt-
 For You All
-Versi Ketiga Dari EleinaBotz 
+Versi Ketiga Dari Acill bott 
 ## CATATAN
 Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Tod!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -13,21 +13,21 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 > **Warning**: Jangan lupa ganti owner di folder SRC/MESSAGE/CONFIG.JS
  <h1 align="center">EleinaBotz</h1>
 <p align="center">
-  <a href="https://github.com/ChataOfc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Okta+BOT;Base+ori+by+Gatau;Recode+By+Okta;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/ChataOfc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Acil+BOT;Base+ori+by+Gatau:v;Recode+By+Okta;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="Chaca Cantik" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Vita Cantik" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ChataOfc"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Okta-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/acilll45"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Okta-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
 ## ```Connect With Me 📞``` 
 
-## ```Whatsapp``` <a href="https://wa.me/6285731947500"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285749543572) 
+## ```Whatsapp``` <a href="https://wa.me/6283838757324"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283838757324) 
 ---------
 
 ### a little about this bot
@@ -54,7 +54,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 ---------
 
 ## ```For User Panel, Buy Panel In This Number```
-[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282124046059) 
+[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283838757324) 
 ---------
 
 ## ```Nama Session```
@@ -111,11 +111,11 @@ Set prefix
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/ChataOfc)
-* [`My parents`](https://github.com/ChataOfc)
-* [`All Friends`](https://github.com/ChataOfc)
-* [`All Contributors`](https://github.com/ChataOfc)
-* [`All Creator Bot`](https://github.com/ChataOfc)
+* [`Allah SWT`](https://github.com/acilll45)
+* [`My parents`](https://github.com/acilll45)
+* [`All Friends`](https://github.com/acilll45)
+* [`All Contributors`](https://github.com/acilll45)
+* [`All Creator Bot`](https://github.com/acilll45)
 
 ## ```Recode By ✏️```
 [![Okta](https://telegra.ph/file/4f4a1a831073ea8439187.jpg)](https://github.com/ChataOfc)
